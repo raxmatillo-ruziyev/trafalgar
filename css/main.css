@@ -198,7 +198,7 @@
   .service__button{
       margin-top: 40px;
       margin-left: 500px;
-      padding: 15px 30px;
+      padding: 10px 20px;
       font-size: 18px;
       border-radius: 25px;
       color: #458FF6;
@@ -207,7 +207,7 @@
   .service__button:hover{
       margin-top: 40px;
       margin-left: 500px;
-      padding: 15px 30px;
+      padding: 10px 20px;
       font-size: 18px;
       border-radius: 25px;
       color: white;
@@ -264,7 +264,7 @@
       height: 60px;
       top: 2703px;
       left: 920.5px;
-      padding: 10px;
+      padding: 10px 20px;
       border-radius: 50px;
       border: 1.4px solid #458FF6;
       color: #458FF6;
@@ -277,7 +277,7 @@
       height: 60px;
       top: 2703px;
       left: 920.5px;
-      padding: 10px;
+      padding: 10px 20px;
       border-radius: 50px;
 }
   /* ---------------------------box---------------------------- */
@@ -317,9 +317,20 @@
       height: 60px;
       top: 2703px;
       left: 920.5px;
-      padding: 10px;
+      padding: 10px 20px;
       border-radius: 50px;
       color: #458FF6;
+      border: 1.4px solid #458FF6;
+  }
+ .box__button:hover{
+      width: 200px;
+      height: 60px;
+      top: 2703px;
+      left: 920.5px;
+      padding: 10px 20px;
+      border-radius: 50px;
+      background: #458FF6;
+      color:white;
       border: 1.4px solid #458FF6;
   }
   /* -------------------avto---------------------- */
@@ -467,6 +478,18 @@
       margin-right:180px ;
       padding-top: 30px;
       background: none;
+  }
+ .card__button:hover{
+      font-family: Muli;
+      font-size: 17px;
+      line-height: 28px;
+      letter-spacing: 0em;
+      text-align: left;
+      border: none;
+      margin-right:180px ;
+      padding-top: 30px;
+      background: #458FF6;
+     coror:white;
   }
   /* ---------------------------------card------------------------------------ */
   .botton{   

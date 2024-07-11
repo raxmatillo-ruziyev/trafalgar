@@ -117,6 +117,11 @@
       color: white;
       border: none;
   }
+.hero__botton:hover{
+    color:#458FF6;
+        background: white;
+    border:1px solid #458FF6;
+}
   /* ------------------------------------service-------------------------------- */
   .service__container{
       max-width: 1200px;

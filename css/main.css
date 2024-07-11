@@ -118,6 +118,10 @@
       border: none;
   }
 .hero__botton:hover{
+       margin-top: 30px;
+
+      border-radius: 20px;
+      padding: 10px 20px;
     color:#458FF6;
         background: white;
     border:1px solid #458FF6;
